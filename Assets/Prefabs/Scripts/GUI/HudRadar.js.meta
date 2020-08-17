@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 465a09d155525a1458722452ea8e9193
+timeCreated: 1453562171
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - fighterIcon: {fileID: 2800000, guid: 4faf0b70ef7a24349b4268e1ab4cfb7b, type: 3}
+  - corvetteIcon: {instanceID: 0}
+  - capitalIcon: {instanceID: 0}
+  - targetIcon: {fileID: 2800000, guid: 2b9f67845c2ea034cb801b7620745e1b, type: 3}
+  - target: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

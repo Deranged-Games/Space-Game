@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="Assembly-UnityScript.unityproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Prefabs\Scripts\GUI\PassiveRadar.js">
+    <Files>
+      <File FileName="Assets\Prefabs\Scripts\GUI\PassiveRadar.js" Line="52" Column="1" />
+      <File FileName="Assets\Prefabs\Scripts\Handlers\CameraController.js" Line="1" Column="1" />
+      <File FileName="Assets\Prefabs\Scripts\GUI\ActiveRadar.js" Line="18" Column="66" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
